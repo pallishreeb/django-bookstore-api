@@ -1,0 +1,20 @@
+# Ignore Python bytecode files
+*.pyc
+
+# Ignore environment-specific settings files
+.env
+
+
+# Ignore editor-specific files and directories
+.vscode/
+.idea/
+
+# Ignore OS generated files
+.DS_Store
+
+# Ignore logs
+*.log
+
+# Ignore dependencies managed by pip
+/venv/
+media/
